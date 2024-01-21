@@ -47,6 +47,7 @@ The output of the system design phase is typically a detailed design document or
  * Performance Monitoring and testing
  * Know the SLA numbers which are represented in 9's
 ## Understanding System Design of Popular Applications
+
 * Bookmyshow
 * Messengers like WhatsApp
 * E-commerce site like Amazon
@@ -64,7 +65,8 @@ The output of the system design phase is typically a detailed design document or
 * Metrics Monitoring & Alerting
 * Lift System
 
-  ## Desing Patterns
+ ## Desing Patterns
+  
   * SOLID
   * GoF Design Patterns
   * Common Patterns used in Cloud Systems
