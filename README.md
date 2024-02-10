@@ -23,6 +23,7 @@ The output of the system design phase is typically a detailed design document or
    * Rate limiting
    * Throttling
    * Load Shedding
+   * Video Explanation - [link](https://youtu.be/K3jhzqvsyUg?si=-Qw2l3y9JXPKU2_b)
  * Monolith vs Microservice
  * Service Registry & Discovery
  * Databases - SQL, NoSQL, Vector etc
