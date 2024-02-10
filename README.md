@@ -19,7 +19,10 @@ The output of the system design phase is typically a detailed design document or
  * Firewalls
  * Security - Authentication/ Authorization, Single Sign On, Tokens
  * Load Balancer
- * Rate limiting
+ * Preventing system from load
+   * Rate limiting
+   * Throttling
+   * Load Shedding
  * Monolith vs Microservice
  * Service Registry & Discovery
  * Databases - SQL, NoSQL, Vector etc
