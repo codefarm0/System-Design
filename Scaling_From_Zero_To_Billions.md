@@ -21,7 +21,7 @@
 * Distributed Cache
 
 ## CDN
- * Caching static assests
+ * Caching static assets
  * Reducing the latency on UI
 
 ## Data Centers
@@ -32,4 +32,9 @@
 ## Message Queues
 * Async Processing
 
-## 
+## Monitoring
+* Logging
+* Metrics
+* Automation
+
+## Conclusion and Next Steps
