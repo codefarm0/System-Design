@@ -10,6 +10,9 @@ Key aspects of system design in software engineering include-
    
 The output of the system design phase is typically a detailed design document or set of documents that serve as a guide for the implementation team. This document **provides a roadmap for developers to follow** when building the software system, ensuring that **it meets the specified requirements and is scalable, maintainable, and robust**.
 
+
+ [Getting Started with System Design](https://youtu.be/pRoJkJ5YbB4?si=QxpWXqFrl_XFOENp)
+ 
  ## Concepts to Understand
  * Browser
  * URL
