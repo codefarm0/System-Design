@@ -1,31 +1,13 @@
 # Scaling From Zero To Billions Of Requests
 
 ## Business Requirements (Real State Company)
-
-### Support rapid user growth
-The website should be able to handle an increasing number of visitors searching for properties and agents.
-
-###  Handle high-traffic loads
-During peak times, such as weekends or holidays, the system should maintain performance and availability.
-
-###  Fast response times and low latency
-Users should experience quick loading of property listings, images, and search results.
-
-### Data consistency and reliability
-Property details, user profiles, and transactions should be accurately stored and retrievable.
-
-###  Independent service deployment and scaling
-Services like user authentication, property listings, and search should be modular to allow individual scaling and updates.
-
-### Efficient data retrieval and processing
-Fast access to property data, including filtering and sorting capabilities.
-
-### Comprehensive monitoring and logging
-Track user activities, system performance, and any errors for proactive maintenance and troubleshooting.
-
-### Secure handling of user data
-Ensure user information is protected, complying with data privacy laws.
-
+* Support rapid user growth
+* Handle high-traffic loads
+* Fast response times and low latency
+* Data consistency and reliability
+* Independent service deployment and scaling
+* Comprehensive monitoring and logging
+* Secure handling of user data
 
 ## Initial Single Server Setup
 * Browser
@@ -42,7 +24,7 @@ Ensure user information is protected, complying with data privacy laws.
 * Which database to Use?
 * Database replication
 * Database scaling - Vertical or Horizontal(Sharding)
-*
+
 ## Cache
 * Single Server Cache
 * In memory Cache
@@ -52,13 +34,18 @@ Ensure user information is protected, complying with data privacy laws.
  * Caching static assets
  * Reducing the latency on UI
 
+## Message Queues
+* Async Processing
+
+## Security
+* Secure handling user requests
+* In place data security
+* Secure access to data
+  
 ## Data Centers
 * Geo routing
 * Data Synchronization
 * Failure Safety
-
-## Message Queues
-* Async Processing
 
 ## Monitoring
 * Logging
