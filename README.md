@@ -22,7 +22,7 @@ The output of the system design phase is typically a detailed design document or
  * Firewalls
  * Security - Authentication/ Authorization, Single Sign On, Tokens
  * Load Balancer
- * Preventing system from overload
+ * [Preventing system from overload](https://www.youtube.com/watch?v=K3jhzqvsyUg)
    * Rate limiting
    * Throttling
    * Load Shedding
@@ -53,8 +53,18 @@ The output of the system design phase is typically a detailed design document or
  * Observability
  * Performance Monitoring and testing
  * Know the SLA numbers which are represented in 9's
+ * Capacity Estimation
+ * [Scaling from 0 to Billions of requests](https://youtube.com/playlist?list=PLq3uEqRnr_2H2B9kK2g9-7_-rn2uXMdRa&si=iqN8eMmBr53tUai0)
+
+## Interview Tips
+
+ * Functional vs Non-Functional Requirements
+ * Mistakes to avoid while interviewing for System Design
+ * Myths around System design interviews
+   
 ## Understanding System Design of Popular Applications
 
+* [Unique ID Generator in Distributed System](https://youtu.be/4T2-UM5Wd5c?si=RSnMlMG8WsaeslrK) 
 * Bookmyshow
 * Messengers like WhatsApp
 * E-commerce site like Amazon
