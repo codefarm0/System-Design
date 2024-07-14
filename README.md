@@ -55,6 +55,7 @@ The output of the system design phase is typically a detailed design document or
  * Know the SLA numbers which are represented in 9's
  * Capacity Estimation
  * [Scaling from 0 to Billions of requests](https://youtube.com/playlist?list=PLq3uEqRnr_2H2B9kK2g9-7_-rn2uXMdRa&si=iqN8eMmBr53tUai0)
+ * HLD vs LLD 
 
 ## Interview Tips
 
