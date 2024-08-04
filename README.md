@@ -57,6 +57,25 @@ The output of the system design phase is typically a detailed design document or
  * [Scaling from 0 to Billions of requests](https://youtube.com/playlist?list=PLq3uEqRnr_2H2B9kK2g9-7_-rn2uXMdRa&si=iqN8eMmBr53tUai0)
  * HLD vs LLD
  * How to architect for a greener future - [ref](https://www.infoq.com/articles/architect-software-for-greener-future/)
+ * Read your writes: https://lnkd.in/dJYZ3Z_7
+
+ * Asynchronous Processing with Futures: https://lnkd.in/d55-j-G8
+
+ * Request Collapsing: https://lnkd.in/dFbJmwJC
+
+ * What are threads: https://lnkd.in/dF4q9ez2
+
+ * Ordering requests with threads: https://lnkd.in/dV_fqwW8
+
+ * Event Bus Publishers and Subscribers: https://lnkd.in/dcciJ4vM
+
+ *  What is a software client library: https://lnkd.in/dbYzNXeH
+
+ *  Classes and package structuring: https://lnkd.in/dqagPDG9
+
+ *  Dependency Inversion: https://lnkd.in/djU2uw4K
+
+ * What is backpressure: https://lnkd.in/dksjQb7N
 
 ## Interview Tips
 
